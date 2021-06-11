@@ -1,0 +1,2 @@
+C:\Users\student\source\repos\ConsoleApplicationBlackJack\Debug\ConsoleApplicationBlackJack.exe
+C:\Users\student\source\repos\ConsoleApplicationBlackJack\Debug\ConsoleApplicationBlackJack.pdb
